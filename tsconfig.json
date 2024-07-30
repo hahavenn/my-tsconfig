@@ -20,7 +20,7 @@
     "strictPropertyInitialization": true,
     "useUnknownInCatchVariables": true,
 
-    "module": "ESNext",
+    "module": "NodeNext",
     "moduleResolution": "NodeNext",
 
     "removeComments": true,
