@@ -1,5 +1,4 @@
 {
-  "include": ["src/**/*.ts", "src/**/*.vue"],
   "compilerOptions": {
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
